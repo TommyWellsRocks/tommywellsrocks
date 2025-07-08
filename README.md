@@ -1,4 +1,12 @@
-## Hi there 👋
+## Howdy 🤠
+
+I'm Tommy Wells, a self-taught full stack developer. 
+
+- 📀 Built [Videobly](https://github.com/TommyWellsRocks/videobly) - download YouTube videos in any format.
+- 🔭 Building [Temple](https://github.com/TommyWellsRocks/temple_preview) - create and record your workouts.
+- 🏎️ Finding time to workout, drive country roads, and jam to the Bee Gees.
+- 🤔 Dreaming about doing something impactful.
+
 
 <!--
 **TommyWellsRocks/tommywellsrocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
